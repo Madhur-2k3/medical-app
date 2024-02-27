@@ -1,6 +1,8 @@
 import React from 'react'
 import SearchHero from './components/SearchHero'
 import Benefits from './components/Benefits'
+import Services from './components/Services'
+import Footer from './components/Footer'
 
 export default function Home() {
   return (
@@ -11,7 +13,10 @@ export default function Home() {
       button={"GET STARTED"}
       />
 
+      <Services/>
+
       <Benefits/>
+      {/* <Footer/> */}
 
     </>
     
