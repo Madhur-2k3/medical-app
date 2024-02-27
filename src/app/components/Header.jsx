@@ -20,7 +20,7 @@ export default function Header() {
                 About
             </Link>
         </div> */}
-        <div className="w-full max-w-[1248px] text-center object-none block relative mx-auto px-6">
+        <div className=" w-full max-w-[1248px] text-center object-none block  relative mx-auto px-6">
 
          <div className="flex order-1 justify-between items-center text-sm font-medium leading-6 ;
             font-family: Barlow, sans-serif">
