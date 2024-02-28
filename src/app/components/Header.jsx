@@ -72,7 +72,7 @@ export default function Header() {
                 </button> */}
             </div>
             <div class=" justify-between items-center w-full lg:flex lg:w-auto lg:order-1" id="mobile-menu-2">
-                <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
+                <ul class="flex flex-row mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
                     <li>
                         <Link href="/services" class={`"  block py-2 pr-4 pl-3 text-white rounded bg-primary-700 lg:bg-transparent lg:text-primary-700 lg:p-0 dark:text-white ${Pathname==='/' && '!text-blue-600 border-blue-600'}"`} aria-current="page">Services</Link>
                     </li>

@@ -2,7 +2,7 @@ import React from 'react'
 import SearchHero from './components/SearchHero'
 import Benefits from './components/Benefits'
 import Services from './components/Services'
-import Footer from './components/Footer'
+
 
 export default function Home() {
   return (
@@ -15,8 +15,11 @@ export default function Home() {
 
       <Services/>
 
-      <Benefits/>
-      {/* <Footer/> */}
+      <Benefits 
+      heading1={'Cost, speed, and accuracy'}
+      heading2={"No need to make trade-offs, choose all three"}
+      />
+    
 
     </>
     

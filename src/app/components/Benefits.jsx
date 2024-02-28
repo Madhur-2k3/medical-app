@@ -2,14 +2,14 @@ import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 
-export default function Benefits() {
+export default function Benefits({heading1,heading2}) {
   return (
     <>
         <div className="benefit-section ">
                 <div className="flex flex-col gap-4 my-6 mx-auto py-4">
                     <p className='text-center text-gray-600 font-medium'>BENEFITS</p>
-                    <p className='text-center text-5xl'>Cost, speed, and accuracy</p>
-                    <p className='text-center text-2xl text-gray-600'>No need to make trade-offs, choose all three</p>
+                    <p className='text-center text-5xl'>{heading1}</p>
+                    <p className='text-center text-2xl text-gray-600'>{heading2}</p>
 
                 </div>
                 <div className='container flex flex-wrap justify-center items-center w-full my-5 mx-auto gap-3'>
