@@ -5,7 +5,7 @@ import "tailwindcss/tailwind.css";
 export default function ContactForm() {
   return (
     <div>
-      <section className="text-gray-700 body-font relative">
+      <section className="text-gray-700 body-font ">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-12">
             <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
@@ -15,10 +15,10 @@ export default function ContactForm() {
             Our team would love to work with you to understand your current operation and provide a free automation ROI analysis.
             </p>
           </div>
-          <div className="lg:w-1/2 md:w-2/3 mx-auto">
-            <div className="flex flex-wrap -m-2">
+          <div className="lg:w-1/2 md:w-2/3 mx-auto ">
+            <div className="flex flex-wrap ">
               <div className="p-2 sm:w-full md:w-1/2">
-                <div className="relative">
+                <div className="">
                   <label for="name" className="leading-7 text-sm text-gray-600">
                     Name
                   </label>
@@ -32,7 +32,7 @@ export default function ContactForm() {
                 </div>
               </div>
               <div className="p-2 sm:w-full md:w-1/2">
-                <div className="relative">
+                <div className="">
                   <label
                     for="email"
                     className="leading-7 text-sm text-gray-600"
@@ -48,7 +48,7 @@ export default function ContactForm() {
                 </div>
               </div>
               <div className="p-2 w-full">
-                <div className="relative">
+                <div className="">
                   <label
                     for="message"
                     className="leading-7 text-sm text-gray-600"
