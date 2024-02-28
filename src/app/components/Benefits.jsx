@@ -44,7 +44,7 @@ export default function Benefits({heading1,heading2}) {
                         <p className='text-center lg:w-[60%]'>Keep your PHI secure with industry leading technology and protocol.</p>     
                     </div>
                 </div>
-                <Link href='/contact' className='flex justify-center'>
+                <Link href='/contact' className='flex justify-center w-fit mx-auto'>
                     <button className='my-5 p-3 px-7 border-x-2 border-blue-800 text-white bg-violet-500 rounded-full'>SCHEDULE A CALL</button>
                 </Link>
         </div>

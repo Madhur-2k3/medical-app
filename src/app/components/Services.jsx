@@ -34,7 +34,7 @@ export default function Services() {
                     </div>
                     
                 </div>
-                <Link href='/services' className='flex justify-center'>
+                <Link href='/services' className='flex justify-center w-fit mx-auto'>
                     <button className='my-5 p-3 px-7 border-x-2 border-blue-800 text-white bg-violet-500 rounded-full'>EXPLORE SERVICES</button>
                 </Link>
         </div>
