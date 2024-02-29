@@ -1,8 +1,9 @@
 import React from 'react'
 import SearchHero from '../components/SearchHero'
 import Benefits from '../components/Benefits'
+import Team from '../components/Team'
 
-export default function Team() {
+export default function TeamPage() {
   return (
     <>
     <SearchHero 
@@ -12,6 +13,7 @@ export default function Team() {
     // buttonType={"hidden"}
     loaction={"search"}
     />
+    <Team/>
     
     </>
     
