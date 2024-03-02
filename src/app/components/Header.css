@@ -1,0 +1,15 @@
+.logo{
+    background: linear-gradient(to right,red,blue);
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+    /* background: linear-gradient(to right, #8a2387, #e94057, #f27121); */
+    /* background: linear-gradient(to right, #009fff, #ec2f4b); */
+    color:transparent;
+    -webkit-background-clip: text;
+    /* animation: anime 1s infinite alternate; */
+}
+/* @keyframes anime{
+    100%{
+        text-shadow: 0 0 60px #09b7de6c ;
+    }
+} */
