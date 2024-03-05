@@ -22,7 +22,7 @@ const data=
       "title": "354+ healthcare revenue cycle management companies to know: Fathom featured in Becker's Healthcare",
       "name":"IN THE NEWS",
       "data":"February 21, 2024",
-      "imageurl":" https://assets-global.website-files.com/5e6c01bb8abd778fb77d8e0b/65d8ec9da9bc1af9e72db083_technology-ai-3%20copy.jpg",
+      "imageurl":"https://assets-global.website-files.com/5e6c01bb8abd778fb77d8e0b/65d8ec9da9bc1af9e72db083_technology-ai-3%20copy.jpg",
    
       "description": "Becker's  Healthcare equips healthcare leaders with the information and forums they need to learn, exchange ideas and further conversations about the most critical issues in American healthcare.RCM companies play a crucial role in making complex, complicated healthcare revenue cycles easier. Fathom was named by Becker's as one of the RCM companies to know and recognized us as the first autonomous medical coding solution to be formally added to Google Cloud Marketplace.Read the full list from Becker's Hospital Review."
     },
