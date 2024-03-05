@@ -1,7 +1,9 @@
 import React from 'react'
 import data from '@/app/data';
 import Image from 'next/image';
-const page = ({params}) => {
+const page = async ({params}) => {
+
+  await new Promise((resolve)=>setTimeout(resolve,1500));
 
   const id=params.id;
   
