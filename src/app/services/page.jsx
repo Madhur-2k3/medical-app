@@ -17,13 +17,13 @@ export default function Service() {
         bg={'white'}
       />
       <ServicesHero
-        title={'Production coding'}
-        desc={'production coding is the development of software solutions that are ready for deployment and use by end-users or customers. It often follows a series of development processes, including coding, testing, quality assurance, and deployment, to ensure that the software meets performance, reliability, and functionality requirements in real-world scenarios.'}
+        title={'FASTER INSURANCE CLAIM'}
+        desc={'A faster insurance claim denotes the accelerated handling, review, and resolution of insurance claims submitted by policyholders or healthcare providers to insurance companies or payers. It encompasses several key aspects aimed at streamlining the claims process and reducing the time taken to receive reimbursement'}
         bg={'gray-200'}
       />
       <Benefits
-        heading1={"Faster, cheaper, and more accurate"}
-        heading2={"Supercharge your medical coding operations"}
+        heading1={"Cost, speed, and accuracy"}
+        heading2={"No need to make trade-offs, choose all three"}
       />
 
     </>

@@ -7,9 +7,7 @@ export default function ServicesHero({title,desc,bg}) {
         <div className='w-[80%] flex flex-col items-center justify-center mx-auto py-7 gap-3 '>
             <h1 className=' font-serif font-bold text-3xl'>{title}</h1>
             <p className='text-center text-xl'>{desc}</p>
-            <Link href='/contact' className='pt-5'>
-                <button className='flex text-white bg-violet-500 py-3 px-7 rounded-full' >REQUEST A CALL</button>
-            </Link>
+            
         </div>
     </div>
   )
