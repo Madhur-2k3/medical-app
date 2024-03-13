@@ -13,24 +13,24 @@ export default function Services() {
                 </div>
                 <div className='container flex flex-wrap justify-center items-center w-full my-5 mx-auto gap-3'>
                     <div className="card sm:w-[30%] gap-1 w-[50%] flex flex-col items-center">
-                        <Image src='/cost.svg' height={100} width={100} loading='lazy'/>
+                        <Image src='/standadizing-data-new.png' height={100} width={100} loading='lazy'/>
                         <p className="font-medium">Standardizing Data</p>
-                        <p className='text-center lg:w-[60%]'>Reduce the total cost of your coding operations by up to 50%.</p>     
+                        <p className='text-center lg:w-[60%]'>Standardizing healthcare data enables informed decisions through consistent comparisons.</p>     
                     </div>
                     <div className="card sm:w-[30%] gap-1 flex flex-col items-center">
                         <Image src='/accuracy.svg' height={100} width={100} loading='lazy'/>
                         <p className="font-medium">Production Coding</p>
-                        <p className='text-center  lg:w-[60%]'>Instantly reduce claim denials and mitigate audit risk.</p>     
+                        <p className='text-center  lg:w-[60%]'>Creating software for public use involves coding, testing, and release.</p>     
                     </div>
                     <div className="card sm:w-[30%] gap-1 flex flex-col items-center">
                         <Image src='/speed.svg' height={100} width={100} loading='lazy'/>
                         <p className="font-medium text-center">Faster cheaper and insurance clariance</p>
-                        <p className='text-center lg:w-[60%]'>Cut your coding turnaround by days, not hours or minutes.</p>     
+                        <p className='text-center lg:w-[60%]'> Quicker reimbursement to policyholders/providers.</p>     
                     </div>
                     <div className="card sm:w-[30%] gap-1 flex flex-col items-center">
                         <Image src='/scale.svg' height={100} width={100} loading='lazy'/>
                         <p className="font-medium text-center">Real time audit & Real time visualization</p>
-                        <p className='text-center lg:w-[60%]'>Effortlessly add the capacity to code millions of charts per day..</p>     
+                        <p className='text-center lg:w-[60%]'>Instant graphical representation of live data for analysis.</p>     
                     </div>
                     
                 </div>
